@@ -1,1 +1,16 @@
-
+{
+  "version": "1.5.0",
+  "notes": {
+    "zh-Hans": "• 新增检查更新功能\n• 界面语言扩展到 8 种（简繁中/英/日/韩/法/德/西）\n• 全新 XN 应用图标",
+    "zh-Hant": "• 新增檢查更新功能\n• 介面語言擴充到 8 種\n• 全新 XN 應用程式圖示",
+    "en": "• Added update checking\n• UI now available in 8 languages\n• New XN app icon",
+    "ja": "• アップデート確認機能を追加\n• UI が 8 言語に対応\n• 新しい XN アイコン",
+    "ko": "• 업데이트 확인 기능 추가\n• UI 8개 언어 지원\n• 새로운 XN 아이콘",
+    "fr": "• Vérification des mises à jour\n• Interface en 8 langues\n• Nouvelle icône XN",
+    "de": "• Update-Prüfung hinzugefügt\n• Oberfläche in 8 Sprachen\n• Neues XN-Symbol",
+    "es": "• Comprobación de actualizaciones\n• Interfaz en 8 idiomas\n• Nuevo icono XN"
+  },
+  "url": "https://github.com/MZCretin/xnian-screen-recorder/releases/latest",
+  "url_cn": "https://gitee.com/mxnzp/xnian-screen-recorder/releases",
+  "min_version": "1.0.0"
+}
